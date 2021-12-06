@@ -1,0 +1,101 @@
+content info: {{Marvel Database:Comic Template
+| Image1              = Avengers Vol 1 19.jpg
+| Image2              = Avengers Vol 1 19 Vintage.jpg
+| Image2_Text          = Vintage
+| Month               = 8
+| Year                = 1965
+| ReleaseDate         = 06-08-1965
+
+| Editor-in-Chief     = Stan Lee
+| Image1_Artist1       = Jack Kirby
+| Image1_Artist2       = Dick Ayers
+
+| Quotation           = No one questions a man with an [[Avengers (Earth-616)|Avengers]] I.D. card! If I can join their team, there's nothing I won't be able to get away with! And, those costumed do-gooders would be fools to reject anyone as powerful as... the Swordsman!
+| Speaker             = [[Jacques Duquesne (Earth-616)|Swordsman (Jacques Duquesne)]]
+
+| StoryTitle1         = The Coming of... The Swordsman!
+| Writer1_1           = Stan Lee
+| Penciler1_1         = Don Heck
+| Inker1_1            = Dick Ayres
+| Colorist1_1         = Stan Goldberg
+| Letterer1_1         = Artie Simek
+| Editor1_1           = Stan Lee
+
+| Appearing1          = 
+'''Featured Characters:'''
+* {{a|[[Avengers (Earth-616)|Avengers]]}}
+** {{apn|[[Pietro Maximoff (Earth-616)|Quicksilver (Pietro)]]|Fantastic Four Annual #3}}
+** {{apn|[[Wanda Maximoff (Earth-616)|Scarlet Witch (Wanda)]]|Fantastic Four Annual #3}}
+** {{apn|[[Steven Rogers (Earth-616)|Captain America (Steve Rogers)]]|Marvel: Heroes & Legends #1}}
+** {{apn|[[Clinton Barton (Earth-616)|Hawkeye]]|Marvels #2}} {{Flashback}}
+<!--'''Supporting Characters:'''
+* <br/>-->
+'''Antagonists:'''
+* {{apn|[[Jacques Duquesne (Earth-616)|Swordsman]]|-|}} {{1st}} {{Flashback}}
+* {{a|[[Hydra (Earth-616)|Hydra]]}}
+* {{a|[[Blackie Barker (Earth-616)|Blackie]]}} 
+* Other Gangsters {{Unnamed}}
+'''Other Characters:'''
+* {{1st|[[Carson Carnival (Earth-616)|Carson Carnival]]}} {{FlashOnly}} {{Unnamed}}
+* {{Mentioned|[[Strategic Homeland Intervention, Enforcement and Logistics Division (Earth-616)|S.H.I.E.L.D.]]}}
+** {{Mentioned|[[Nicholas Fury (Earth-616)|Nick Fury]]}}
+* {{Mentioned|[[Central Intelligence Agency (Earth-616)|CIA]]}}
+* {{Referenced|[[United States Government (Earth-616)|U.S. Government]]}}
+* {{Mentioned|[[Anthony Stark (Earth-616)|Tony Stark]]}}
+* {{a|[[New York City Police Department (Earth-616)|NYPD]]}}
+'''Races and Species:'''
+* {{Flashback|[[Homo sapiens|Humans]]}}
+* {{Referenced|[[Tigers]]}}
+'''Locations:'''
+* {{Flashback|[[Earth]]}}
+** {{Flashback|[[North America]]}}
+*** {{Flashback|[[United States of America|United States]]}}
+**** {{a|[[New York (State)|New York]]}}
+***** {{a|[[New York City]]}}
+****** {{a|[[Manhattan]]}}
+******* [[Manhattan#Midtown Manhattan|Midtown]] 
+******** {{a|[[Fifth Avenue]]}}
+********* {{a|[[Avengers Mansion]]}}
+***** Unidentified Warehouse
+**** [[Carson Carnival (Earth-616)|Carson Carnival]] {{1st}} {{FlashOnly}} {{Unnamed}}
+**** {{a|[[Washington, D.C.]]}}
+***** {{a|[[National Mall]]}}
+****** {{a|[[Capitol Building]]}}
+******* Fury's office
+**** {{Mentioned|[[Fort Knox|Fort Knox, Kentucky]]}}
+** {{Mentioned|[[Europe]]}}
+'''Items:'''
+* {{Referenced|[[Avengers Identicard]]}}
+* {{1st|[[Swordsman's Sword]]}}
+* {{a|[[Captain America's Shield]]}}
+* {{a|[[Hawkeye's Bow]]}} and {{a|[[Trick Arrows]]}}
+* {{a|[[Hydra Uniforms]]}}
+* Gamma Lens
+* Tracer Beam
+<!--'''Vehicles:'''
+* <br/> -->
+
+| Synopsis1           = The Swordsman infiltrates the Avenger's base and Scarlet Witch and Quicksilver attack him. He then admits he was testing them and wants to apply for membership. Captain America intervenes, saying the Swordsman is a wanted man. He escapes, however. Hawkeye explains that the Swordsman used to be his tutor when he was in the circus.
+
+Meanwhile, in Nick Fury's office in Washington D.C., HYDRA agents find a letter from Captain America, explaining how Captain America wanted to work for S.H.I.E.L.D. They discard it as trash. A mobster finds it and gives it to the Swordsman.
+
+A trap is laid for Captain America. He leaves the Mansion, thinking he is going to meet with Nick Fury. Hawkeye finds out about the plan and gathers the other Avengers to help him.
+
+Captain America battles the Swordsman and gets captured before the others can arrive to help. The Swordsman then holds him captive on a scaffolding, threatening to hurl Cap to his death if the other Avengers interfere. But Captain America jumps off the scaffolding so the Avengers don't have to surrender.
+
+| Solicit             = 
+
+| Notes               = * All the [[Avengers (Earth-616)|Avengers]] appeared last in {{cl|Avengers Vol 1 #18}} where they battled the [[Commissar (Android) (Earth-616)|Commissar]].
+* A brief origin of the [[Jacques Duquesne (Earth-616)|Swordsman]] and [[Clinton Barton (Earth-616)|Hawkeye]] is given in this issue.
+* Although there is a [[Steven Rogers (Earth-616)|Captain America]] story in {{cl|Tales of Suspense Vol 1 #68}}, it is a flashback story from [[World War II]].
+* This is the first appearance of the original Swordsman.
+* [[Hydra (Earth-616)|Hydra]]'s last appearance, as well as the recount of events involving [[Nicholas Fury (Earth-616)|Nick Fury]] joining [[Strategic Hazard Intervention Espionage Logistics Directorate|SHIELD]] and his battles against HYDRA, occurred in {{cl|Strange Tales Vol 1 #135}} and [[Strange Tales Vol 1 136|136]].
+* The letter the Hydra agents find was the same one that Captain America mailed to Nick Fury back in {{cl|Avengers Vol 1 #15}}.
+* Hydra is next seen in {{cl|Strange Tales Vol 1 137}}.
+* The Avengers and the Swordsman are seen next in {{cl|Avengers Vol 1 20}}.
+* The [[Swordsman's Sword]] is a normal weapon this issue. Next issue, the [[Mandarin (Earth-616)|Mandarin]] will transform it with his alien technology to emit numerous rays and projectiles.
+* References: {{cl|Strange Tales Vol 1 135}} and {{cl|Strange Tales Vol 1 136}}
+| Trivia              = 
+| Recommended         = 
+| Links               = 
+}}

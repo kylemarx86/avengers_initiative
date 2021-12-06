@@ -1,0 +1,112 @@
+localhost/:1 This site does not have a valid SSL certificate! Without SSL, your site's and visitors' data is vulnerable to theft and tampering. Get a valid SSL certificate before  releasing your website to the public.
+script.js:372 Objectcontent: {pageid: 10572, ns: 0, title: 'Avengers Vol 1 2', revisions: Array(1)}ns: 0pageid: 10572revisions: [{…}]title: "Avengers Vol 1 2"[[Prototype]]: Objectsuccess: true[[Prototype]]: Object
+script.js:61 content:  {{Marvel Database:Comic Template
+| Image1              = Avengers Vol 1 2.jpg
+| Month               = 11
+| Year                = 1963
+| ReleaseDate         = 09-03-1963
+
+
+| PreviousIssue       = [[Avengers Vol 1 1.5|Avengers #1.5]]<br>(Story)<br>[[Avengers Vol 1 1|Avengers #1]]<br>(Title)
+
+| Editor-in-Chief     = Stan Lee
+| Image1_Artist1       = Jack Kirby
+| Image1_Artist2       = Dick Ayers
+
+| Quotation           = If I can destroy '''the [[Avengers (Earth-616)|Avengers]]''' single-handed, then no power on Earth can stop the total invasion of my people!
+| Speaker             = [[Space Phantom (Temporal Limbo)|Space Phantom]]
+
+| StoryTitle1         = The Avengers Battle... the Space Phantom
+| Writer1_1           = Stan Lee
+| Penciler1_1         = Jack Kirby
+| Inker1_1            = Paul Reinman
+| Colorist1_1         = Stan Goldberg
+| Letterer1_1         = Artie Simek
+| Editor1_1           = Stan Lee
+
+| Appearing1          = 
+'''Featured Characters:'''
+* {{a|[[Avengers (Earth-616)|Avengers]]}}
+** {{apn|[[Bruce Banner (Earth-616)|Hulk (Bruce Banner)]]|Avengers #1.5|Avengers Classic #2}} {{Leaves}}
+** {{apn|[[Thor Odinson (Earth-616)|Thor (Odinson)]]|Avengers #1.5|Journey Into Mystery #99}} / {{apn|[[Donald Blake (Earth-616)|Donald Blake]]|Avengers #1.5|Avengers #3}}
+** {{apn|[[Anthony Stark (Earth-616)|Iron Man (Tony Stark)]]|Avengers #1.5|Tales of Suspense Vol 1 48}}
+** {{apn|[[Henry Pym (Earth-616)|Giant-Man (Henry Pym)]]|Avengers #1.5|Tales to Astonish # 50}}
+** {{apn|[[Janet Van Dyne (Earth-616)|Wasp (Janet Van Dyne)]]|Avengers #1.5|Tales to Astonish # 50}}
+'''Supporting Characters:'''
+* {{a|[[Ant-Man's Ants]]}}
+* {{a|[[Teen Brigade (Earth-616)|Teen Brigade]]}}
+** {{apn|[[Richard Jones (Earth-616)|Rick Jones]]|Avengers: The Origin Vol 1 1|Avengers #3}}
+** Unnamed member
+'''Antagonists:'''
+* {{apn|[[Space Phantom (Temporal Limbo)|Space Phantom]]|-|Avengers #106}} {{1st}} {{Impersonates|[[Homo sapiens|Unidentified man]], [[Bruce Banner (Earth-616)|Hulk]], [[Wasps (Race)|Wasp]], [[Henry Pym (Earth-616)|Giant-Man]] and [[Anthony Stark (Earth-616)|Iron Man]]}}
+'''Other Characters:'''
+* Numerous unnamed New Yorkers
+* {{Mentioned|[[New York City Police Department (Earth-616)|NYPD]]}}
+* {{apn|[[Bill Segrist (Earth-616)|Bill]]|-|Tales of Suspense #50}} {{1st}}
+'''Races and Species:'''
+* {{a|[[Homo sapiens|Humans]]}}
+* {{a|[[Asgardians]]}}
+* {{a|[[Ants]]}}
+* {{Mentioned|[[Insects]]}}
+* {{a|[[Space Phantoms]]}}
+* {{Mentioned|[[Gargoyles (Race)|Gargoyles]]}}
+* {{Mentioned|[[Wasps (Race)|Wasp]]}}
+'''Locations:'''
+* {{a|[[Earth]]}}
+** {{a|[[United States of America|United States]]}}
+*** {{a|[[New York (State)|New York]]}}
+**** {{a|[[New York City]]}}
+***** {{a|[[Manhattan]]}}
+****** [[Manhattan#Midtown Manhattan|Midtown]]
+******* {{a|[[Fifth Avenue]]}}
+******** {{1st|[[Avengers Mansion|Stark's Mansion]]}}
+****** {{a|[[Donald Blake's Medical Practice]]}}
+**** {{a|[[Long Island]]}}
+***** {{a|[[Queens]]}}
+****** {{a|[[Flushing]]}}
+******* {{a|[[Stark Enterprises Main Plant]]}}
+**** {{a|[[Pym Laboratories (Location)|Pym Laboratories]]}}
+**** {{Mentioned|[[Grand Central Parkway]]}}
+** {{a|[[Earth Orbit]]}}
+* {{1st|[[Limbo (Temporal)|Limbo]]}}
+* {{Invoked|[[Heaven (Paradise)|Heaven]]}}
+'''Items:'''
+* {{a|[[Iron Man Armor Model 1]]}}
+* {{a|[[Mjolnir]]}}
+* {{a|[[Wasp's Suit]]}} and {{a|[[Bio-Synthetic Wings]]}}
+* {{a|[[Giant-Man's Suit]]}}
+* {{Mentioned|[[Uru]]}}
+'''Vehicles:'''
+* Anthony Stark's Moon Vehicle
+
+| Synopsis1           = [[Anthony Stark (Earth-616)|Iron Man]], [[Thor Odinson (Earth-616)|Thor]], and the [[Bruce Banner (Earth-616)|Hulk]] are awaiting [[Henry Pym (Earth-616)|Ant-Man]] and the [[Janet Van Dyne (Earth-616)|Wasp]] in Tony Stark's library so they can begin their meeting. There is already tension among the ranks of this new super-team as Thor and Hulk bicker. Before anything can come of it, Ant-Man and the Wasp make a sudden entrance, seemingly appearing out of nowhere. Ant-Man, (now using the name Giant-Man) explains by showing the team his new size-changing capsules.
+
+Elsewhere, the eerie [[Space Phantom (Temporal Limbo)|Space Phantom]] arrives on Earth, under the guise of a fragment of meteorite. He plans to destroy the Avengers so that his race can invade the planet. He takes the appearance of a passerby, sending him to Limbo.
+
+Later, the Space Phantom (under the guise of the passerby) approaches the Avengers Mansion. He is spotted by the team and the Hulk goes to investigate. The man takes the Hulk off-guard and assumes his form, sending him to Limbo in place of the man. The Phantom (this time under the guise of the Hulk) returns to the team and taunts Iron Man and Thor, causing a miniature brawl and heightening the tensions in the team before leaving. Outside, he spots the man he replaced earlier trying to warn everybody and decides to cause more havoc as the Hulk.  "The Hulk" is approached by his friend [[Richard Jones (Earth-616)|Rick Jones]], who convinces him to escape before the police arrive. Rick realizes something is wrong with the way "Hulk" is acting and the Phantom reveals himself, before leaving. He arrives at one of Tony Stark's operations plants and, still posing as the Hulk, destroys a new experimental anti-missile defense weapon. Iron Man is told the news and faces off against the "Hulk". Iron Man proves to be too much for him however and the Phantom flees by taking the form of a passing wasp, leaving a confused and dazed Hulk behind. Iron Man and the Hulk continue to battle.
+
+Meanwhile, Rick Jones communicates with Giant-Man and explains the situation to the Wasp and him. They catch up with Iron Man and Hulk and break up the fight. The Phantom, still in the form of a wasp, attacks the Wasp and flees to a nearby factory. After aiding the Wasp, Giant-Man is taken by surprise by the Space Phantom and replaced. This time the Wasp and the Hulk saw it happen and know this "Giant-Man" is fake. They battle and Iron Man eventually catches up only to be replaced. Hulk catches the Space Phantom in the act yet again and the newly-returned Giant-Man teams up with the Hulk to fight the fake "Iron Man".
+
+Across town, it is revealed that the Wasp left to search for Thor. She finds him with the help of [[Donald Blake (Earth-616)|Dr. Donald Blake]] and the duo race back to the factory to assist the rest of the team. The Wasp shrinks down and damages the mechanism of the Iron Man suit and Thor creates a thunderstorm, causing the armor to rust. In a final desperate attempt to succeed, the Space Phantom decides to take Thor's form. Unfortunately for the Phantom his power only works on mortal beings and it backfires, sending him to Limbo instead. After the battle, the Hulk expresses his sadness at his recent treatment in the team and decides to quit.
+
+| Notes               = 
+==Continuity Notes==
+* Since the last issue of the Avengers, Ant-Man and Wasp battled the Porcupine in {{cl|Tales to Astonish #48}}, and the Living Eraser in {{cl|Tales to Astonish #49}}, in which Ant-Man takes on his guise as Giant-Man.  
+* Since the last issue, Iron Man went on to battle the Crimson Dynamo in {{cl|Tales of Suspense #46}}, and the Melter in {{cl|Tales of Suspense #47}}.
+* Thor went on to battle the Lava Man in {{cl|Journey Into Mystery #97}}, and the Cobra in {{cl|Journey Into Mystery #98}}
+* The Hulk did not have a title of his own, and did not appear in anything after {{cl|Avengers #1}}, additionally this is his last issue as a member of the Avengers team.
+* This marks the first appearance of the Space Phantom.  He next appears in {{cl|Avengers #106}}.
+* The [[Limbo (Temporal)|Limbo]] that Space Phantom shunts his victims into is later revealed as the same place that is home to Immortus. Space Phantom's entire race is revealed to be trapped in limbo, and Space Phantom himself is an agent of Immortus.
+** [[Janet Van Dyne (Earth-616)|The Wasp]], [[Hercules Panhellenios (Earth-616)|Hercules]], and the [[Dane Whitman (Earth-616)|Black Knight]] later encounter each of the original Avengers heroes in Limbo during the time that they were being duplicated by the Space Phantom. This occurs in {{cl|Avengers Vol 1 267}}.
+* The "Some Assembly Required" Story from {{cl|Avengers Classic Vol 1 1}} explains how and when the Avengers got their headquarters.
+| Trivia              = 
+* The Hulk is sometimes mistakenly drawn with only three toes in this issue.
+* Rick Jones mistakenly says that The Hulk's secret identity is Don Blake instead of Bruce Banner.
+* The Hulk eventually rejoins the Avengers in {{cl|Avengers Assemble Vol 2 2}}
+* This story is Job # X-435.
+| Recommended         = 
+| Links               = 
+}}
+script.js:75 page type: template
+/projects/avengers_initiative/resources/image_not_found.png:1 Failed to load resource: the server responded with a status of 404 (Not Found)
+script.js:372 Object

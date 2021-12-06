@@ -1,0 +1,150 @@
+{{Marvel Database:Comic Template
+| Image1              = Avengers Vol 1 1.jpg
+| Image2              = Avengers Vol 1 1 Vintage.jpg
+| Image2_Text          = Vintage
+| Month               = September
+| Year                = 1963
+| ReleaseDate         = 7-2-1963
+
+| Editor-in-Chief     = Stan Lee
+| Image1_Artist1       = Jack Kirby
+| Image1_Artist2       = Dick Ayers
+
+| NextIssue           = {{cl|Avengers Vol 1 1.5}}<br>(Story)<br>{{cl|Avengers Vol 1 2}}<br>(Title)
+
+| BlockQuote          = {{Conversation
+|'''Wait!''' Before we separate, the '''Wasp''' and I have something to say! Each of us has a different power! If we combined forces, we could be almost unbeatable!|[[Henry Pym (Earth-616)|Ant-Man]]| Image1=Henry Pym (Earth-616) from Avengers Vol 1 1 0001.jpg
+|Work as a '''team?''' Why not? '''I'm''' for it!|[[Anthony Stark (Earth-616)|Iron Man]]| Image2=Anthony Stark (Earth-616) from Avengers Vol 1 1 0001.jpg
+|There is much '''good''' we might do!|[[Thor Odinson (Earth-616)|Thor]]| Image3=Thor Odinson (Earth-616) from Avengers Vol 1 1 0001.jpg
+|I'm sick of bein' hunted and hounded! I'd rather be '''with''' you than '''against''' you! So, whether you like it or not, '''I'm''' joining the... the... '''Hey!''' What are you '''callin'''' yourselves?|[[Bruce Banner (Earth-616)|Hulk]]| Image4=Bruce Banner (Earth-616) from Avengers Vol 1 1 0001.jpg
+|That's right! We need a '''name!''' It should be something colorful and dramatic, like... the '''[[Avengers (Earth-616)|Avengers]],''' or...|[[Janet Van Dyne (Earth-616)|Wasp]]| Image5=Janet Van Dyne (Earth-616) from Avengers Vol 1 1 0001.jpg
+|"Or" '''nothing!''' That's '''it! The Avengers!!'''|[[Henry Pym (Earth-616)|Ant-Man]]| Image6=Henry Pym (Earth-616) from Avengers Vol 1 1 0001.jpg
+|We'll fight together, or separately, if need be!|[[Anthony Stark (Earth-616)|Iron Man]]| Image7=Anthony Stark (Earth-616) from Avengers Vol 1 1 0001.jpg
+|I pity the guy who tries to beat us!|[[Bruce Banner (Earth-616)|Hulk]]| Image8=Bruce Banner (Earth-616) from Avengers Vol 1 1 0001.jpg
+|We'll '''never''' be beaten! For we are... '''the Avengers!'''|[[Thor Odinson (Earth-616)|Thor]]| Image9=Thor Odinson (Earth-616) from Avengers Vol 1 1 0001.jpg
+}}
+
+| StoryTitle1         = The Coming of the Avengers!
+| Writer1_1           = Stan Lee
+| Penciler1_1         = Jack Kirby
+| Inker1_1            = Dick Ayers
+| Colorist1_1         = Stan Goldberg
+| Letterer1_1         = Sam Rosen
+| Editor1_1           = Stan Lee
+ 
+| Appearing1          = 
+'''Featured Characters:'''
+* {{apn|[[Avengers (Earth-616)|Avengers]]|-}} {{1st}} {{Origin}}
+** {{apn|[[Thor Odinson (Earth-616)|Thor (Odinson)]]|Journey into Mystery #96|Avengers: The Origin Vol 1 1}} / {{a|[[Donald Blake (Earth-616)|Dr. Donald Blake]]}} {{Joins}}
+** {{apn|[[Bruce Banner (Earth-616)|Hulk / Mechano (Bruce Banner)]]|Incredible Hulk #6|Avengers: The Origin Vol 1 1}} {{Joins}}
+** {{apn|[[Henry Pym (Earth-616)|Ant-Man (Hank Pym)]]|Tales to Astonish #46|Avengers: The Origin Vol 1 1}} {{Joins}}
+** {{apn|[[Janet Van Dyne (Earth-616)|Wasp (Janet Van Dyne)]]|Tales to Astonish #46|Avengers: The Origin Vol 1 1}} {{Joins}}
+** {{apn|[[Anthony Stark (Earth-616)|Iron Man (Tony Stark)]]|Tales of Suspense Vol 1 44|Avengers: The Origin Vol 1 1}} {{Joins}}
+'''Supporting Characters:'''
+* {{a|[[Teen Brigade (Earth-616)|Teen Brigade]]}}
+** {{apn|[[Richard Jones (Earth-616)|Rick Jones]]|Incredible Hulk Vol 1 6|Avengers: The Origin Vol 1 1}}
+** [[Character Index/W#Willie|Willie]] {{1st}}
+* {{a|[[Ant-Man's Ants]]}}
+'''Antagonists:'''
+* {{apn|[[Loki Laufeyson (Earth-616)|Loki]]|Journey into Mystery #96|Avengers: The Origin Vol 1 1}}
+* {{1st|[[Rock Trolls (Orange-Skinned)|Rock Trolls]]}}
+* {{1st|[[Silent Ones (Trolls)|Isle of Silence Trolls]]}}
+'''Other Characters:'''
+* {{apn|[[Jane Foster (Earth-616)|Jane Foster]]|Journey into Mystery #96|Avengers: The Origin Vol 1 1}}
+* [[Character Index/B#Bobby|Bobby]]
+* [[Character Index/C#Charlie|Charlie]] {{1st}}
+* {{Mentioned|[[United States Army (Earth-616)|U.S. Army]]}}
+* {{a|[[Fantastic Four (Earth-616)|Fantastic Four]]}}
+** {{apn|[[Reed Richards (Earth-616)|Mister Fantastic (Reed Richards)]]|Fantastic Four Annual #1|Fantastic Four #19}}
+** {{apn|[[Susan Storm (Earth-616)|Invisible Girl (Sue Storm)]]|Fantastic Four Annual #1|Fantastic Four #19}}
+** {{apn|[[Benjamin Grimm (Earth-616)|Thing (Ben Grimm)]]|Fantastic Four Annual #1|Fantastic Four #19}}
+** {{apn|[[Jonathan Storm (Earth-616)|Human Torch (Johnny Storm)]]|Fantastic Four Annual #1|Strange Tales #113}}
+* {{a|[[Keibler's Circus (Earth-616)|Keibler's Circus]]}}
+* Numerous unnamed circus-goers
+* {{apn|[[Odin Borson (Earth-616)|Odin]]|Journey into Mystery #95|Journey into Mystery #97}}
+* Unnamed Asgardian guard
+* Jetliner crew
+* {{Mentioned|[[New York City Police Department (Earth-616)|NYPD]]}}
+'''Races and Species:'''
+* {{a|[[Frost Giants]]}}
+* {{a|[[Homo sapiens|Humans]]}}
+* {{a|[[Asgardians]]}}
+* {{Mentioned|[[Gorillas]]}}
+* {{a|[[Ants]]}}
+* {{a|[[Horses]]}}
+* {{a|[[Otters]]}}
+* {{a|[[Elephants]]}}
+* {{Mentioned|[[Robots]]}}
+* {{a|[[Lions]]}}
+* {{Mentioned|[[Insects]]}}
+* {{a|[[Rock Trolls (Orange-Skinned)|Rock Trolls]]}}
+* {{a|[[Silent Ones (Trolls)|Silent Ones]]}}
+* {{Mentioned|[[Cats]]}}
+'''Locations:'''
+* {{a|[[Asgard (Realm)|Asgard]]}}
+** {{a|[[Bifrost]]}}
+** {{a|[[Asgard (City)|City of Asgard]]}}
+*** Imperial Palace
+** {{1st|[[Sea of Mist]]}} 
+*** {{a|[[Isle of Silence]]}}
+* {{a|[[Earth|Midgard (Earth)]]}}
+** {{a|[[United States of America|United States]]}}
+*** {{a|[[New York (State)|New York]]}}
+**** {{a|[[New York City]]}}
+***** {{a|[[Manhattan]]}}
+****** {{a|[[Donald Blake's Medical Practice]]}}
+****** [[Manhattan#Midtown Manhattan|Midtown]]
+******* {{a|[[42nd Street]]}} and {{a|[[Madison Avenue]]}}
+******** {{a|[[Baxter Building]]}}
+*** {{a|[[New Mexico (State)|New Mexico]]}}
+**** Teen Brigade Headquarters
+*** {{a|[[Michigan (State)|Michigan]]}}
+**** {{a|[[Detroit]]}}
+***** Car Factory
+'''Items:'''
+* {{a|[[Mjolnir]]}}
+* {{a|[[Wasp's Suit]]}} and {{a|[[Bio-Synthetic Wings]]}}
+* {{a|[[Ant-Man's Suit]]}} and {{a|[[Ant-Man's Helmet|Helmet]]}}
+* {{a|[[Iron Man Armor Model 1]]}}
+* {{a|[[Fantastic Four Uniforms]]}}
+<!--'''Vehicles:'''
+* <br/> -->
+
+| Synopsis1           = [[File:Avengers_Vol_1_1_Title.jpg|thumb|none|250px]]
+[[Loki Laufeyson (Earth-616)|Loki]], having been previously captured by [[Thor Odinson (Earth-616)|Thor]], is being held prisoner at the Isle of Silence in Asgard. His physical form may be confined there, but by means of thought projection his disembodied self travels to Earth in search of revenge. He spots Thor in his human identity of Dr. [[Donald Blake (Earth-616)|Donald Blake]] but resists defeating him as it would be a hollow victory compared to defeating him as Thor. 
+
+After hours of searching, Loki happens across the [[Bruce Banner (Earth-616)|Hulk]] and devises a wicked plan to entice Blake to transform into Thor. He projects a mental image of dynamite on the tracks of a nearby railway bridge. The Hulk spots the dynamite and attempts to snuff it out, accidentally destroying the bridge. Suddenly, a train appears on the tracks traveling towards the wreckage. Valiantly, the Hulk manages to hold the tracks up long enough for the train to pass safely before allowing it to collapse. Unfortunately, the damage has already been done and Loki's plan was successful.
+
+Hours later, newspapers print articles about the Hulk being on the rampage again and a manhunt begins. The Hulk's friend, [[Richard Jones (Earth-616)|Rick Jones]], reads the article with disbelief and meets with members of the [[Teen Brigade (Earth-616)|Teen Brigade]] in order to find help to track Hulk down to find the truth. They attempt to contact the [[Fantastic Four (Earth-616)|Fantastic Four]] but Loki interferes with the radio signal, diverting it to Don Blake. He decides to transform into Thor to help the Teen Brigade. Unknown to Loki, the radio signal is also picked up by [[Henry Pym (Earth-616)|Ant-Man]], the [[Janet Van Dyne (Earth-616)|Wasp]], and [[Anthony Stark (Earth-616)|Iron Man]], who also travel to assist.
+
+Later, the Teen Brigade are disappointed that the Fantastic Four hadn't responded to their message when they finally get a reply. They inform the Teen Brigade that they are too busy with another case but they have a hunch that other heroes may have received their distress call. Suddenly Thor, Iron Man, Ant-Man, and the Wasp arrive. Loki realizes that the other heroes will only interfere with his plans and lures Thor away by creating a mental image of the Hulk. Upon catching up with this fake "Hulk", Thor attacks and realizes it isn't real, and immediately suspects Loki. He then returns to Asgard to face his brother.
+
+Meanwhile, Iron Man, Ant-Man and the Wasp track down the Hulk with the help of Ant-Man's ants. He is working at a circus pretending to be a robot called Mechano. They attempt to capture him by causing the ground below him to cave in, by dropping a steel cylinder onto him, and trying to catch him in a net. Hulk manages to escape the circus. Iron Man gives chase but the Hulk cripples his battery, and escapes while Iron Man repairs it.
+[[File:Avengers Vol 1 1 028.jpg|thumb]]
+Back in Asgard, Thor asks permission from [[Odin Borson (Earth-616)|Odin]] to meet Loki on the Isle of Silence to question him. Odin accepts but warns that he cannot interfere between the two brothers' quarrel. As Thor sets out across the Sea of Mist he is attacked by Loki's traps. First, he narrowly escapes tangle roots that threaten to drag him down into the depths. Next, a volcano erupts releasing volcanic gas globules capable of sapping the strength of any god. Thor manages to evade these by diving into the sea. On the island, Loki spots Thor's empty boat and wonders with disbelief if Thor has already been defeated. Suddenly, a giant water spout appears in front of him as Thor emerges from the sea to face him. He throws his hammer at Loki, only to have it deflected by a hastily-made ice shield.
+
+Loki calls upon a [[Rock Trolls|Rock Troll]], which begins to drag Thor beneath the ground. At the last moment, Thor uses his hammer to summon lightning which dazzles the troll, causing it to relinquish his hold. Thor angrily swings his hammer at Loki, who has created multiple mental images of himself to confuse him. Thor counters this by spinning his hammer fast enough to blow all the figures away, revealing the true Loki. Soaking up the magnetic flow from the earth with his hammer, he captures Loki via magnetic attraction and takes him back to Earth to clear the Hulk's name.
+
+On Earth, Iron Man, Ant-Man and the Wasp continue to pursue the Hulk to an auto factory in Detroit. Thor appears with Loki to clear Hulk's name. Suddenly Loki makes himself radioactive forcing the heroes to retreat. Luckily, Loki stands over a trapdoor and Ant-Man's ants trigger a switch, dropping him into a lead-lined tank. Upon celebrating their victory, Ant-Man and the Wasp point out how well they could work as a team, and that they should work together in the future. The Wasp suggests they should call themselves the Avengers, and everybody agrees.
+
+''And there came a day, a day unlike any other, when Earth's mightiest heroes found themselves united against a common threat! On that day, the Avengers were born, to fight the foes no single super hero could withstand!''
+
+| Notes               = 
+==Continuity Notes==
+* [[Bruce Banner (Earth-616)|Hulk]] was last seen in {{cl|Incredible Hulk #6}}, he would continue to appear regularly in issues of The Avengers until the character ended up sharing the title Tales to Astonish with Ant Man/Giant Man & The Wasp in {{cl|Tales to Astonish #60}}. In Hulk #6, the Hulk had defeated the alien known as Metal Master.
+* It's later revealed that some of the members of the circus that Hulk joins (in his guise of "Mechano") were members of the [[Maynard Tiboldt (Earth-616)|Ringmaster's]] [[Circus of Crime (Earth-616)|Circus of Crime]], who were laying low after their last defeat.
+* This issue marks the first appearance of the Avengers as a team.
+* Each member of the Avengers next appears in their regular monthly titles. Thor appears in {{cl|Journey Into Mystery #97}}, battling the Lava Man. Iron Man appears in {{cl|Tales of Suspense #46}} where he battles the Crimson Dynamo. Ant Man and Wasp appear in {{cl|Tales to Astonish #48}} where they battle the Porcupine. The only character who does not have a supporting comic at this time is the Hulk, whose title was canceled at the time.
+* This story has been retold and expanded in [[Avengers: The Origin Vol 1|Avengers: The Origin]] issues [[Avengers: The Origin Vol 1 1|1]] - [[Avengers: The Origin Vol 1 5|5]], which was printed in 2010
+* references: {{cl|Incredible Hulk Vol 1 6}}
+| Trivia              = * When deciding on the team name Wasp said it should be something like "The Avengers." Hank Pym thought that should be the name. So the name was born.
+* The "legend of the old man of the sea" which Loki states was inspired by the Troll of the Isle of Silence is a creature derived from Greek mythology. The old man was a sea-god who also went under various other names: Proteus, Nereus, and Pontus. It is also fabled in myth that he battled against Sinbad during his fifth voyage.
+* Some people say that the Avengers was the second attempt to copy the Justice League. The first being the Fantastic Four. Stan Lee says that he got fan mail that loved the characters crossing over and that's how he got the idea.
+* When {{cl|Daredevil #1}} was running late, [[Stan Lee|Stan Lee]] decided to create a superhero title based on some of the company's heroes.
+* The Hulk's membership only lasted two issues. He will return as an ally in {{cl|Avengers #100}} and joining the team once more in {{cl|Avengers Assemble Vol 2 2}}.
+* This iconic cover has been [[:Category:Homage Cover Images|homaged]] many times. Most recently it was recreated with [[Skrulls]] replacing the heroes on the cover of {{cl|New Avengers #40}}. Also a "movie version" of it was made for the cover of {{cl|Marvel: The Avengers Prelude: Fury's Big Week #1}}
+| Recommended         = 
+| Links               = 
+}}
+[[pt-br:Os Vingadores Vol 1 1]]
+[[ru:Avengers Vol 1 1]]

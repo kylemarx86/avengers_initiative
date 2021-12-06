@@ -1,0 +1,49 @@
+
+Notes
+
+Fails
+'''Featured Characters:'''(.*)'''Supporting Characters:'''
+
+Only one group captured (the one right before Supporting Characters
+'''Featured Characters:'''\n(\*.+?\n)+(?='''Supporting Characters:''')
+
+Captures all lines after Featured Characters
+(?<='''Featured Characters:'''\n)((.+)\n)+
+
+
+Matches all lines between Featured Characters and Supporting Characters
+(?<='''Featured Characters:'''\n)((.+)\n)+(?='''Supporting Characters:''')
+Only want group 0 from this
+
+
+Works to capture all inner values except for Thor (the second character in line “Donald Blake” seems to throw things off)
+\{\{apn\|\[\[(.+\))\|(?!=.)
+
+
+Works to gather correct info, but only want the matching groups
+\{\{apn\|\[\[([^\|]+\))\|(?!=.\|)
+
+
+need to find a way to include catches for 
+
+
+
+\* \{\{(.+)?\|\[\[([^\|]+\))\|(?!=.\|)
+
+\* \{\{(.+)?\|\[\[([^\|]+\))\|[^\]\/]+\](?!=.\|)
+
+excludes the Don Blake part after the slash in Thor entries
+(?<! \/ )\{\{[^\/]+\}\}
+
+attempt to capture only first part of Thor entries
+\* \{\{(.+)?\|\[\[([^|/]+\))\|(?!=.\|)
+
+captures all text between braces for entries and excludes the Don Blake portion of Thor entries
+(?<! \/ )\{\{([^\/}]+)\}\}
+
+seems to capture what is needed without the Don Blake extra portion
+(?<! \/ )\{\{.+\|\[\[([^\/}|]+)\|.+\]\]\|([^\/}]+)\}\}
+
+
+attempt at getting rid of all text after the vertical bar separating identity and character (character part may contain a comic name)
+(?<! \/ )\{\{a?[pn]+\|\[\[[^|]+(\|[^\}]+\}\})

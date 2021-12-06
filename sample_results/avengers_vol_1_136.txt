@@ -1,0 +1,26 @@
+"{{Marvel Database:Comic Template
+| Image1              = Avengers Vol 1 136.jpg
+| Month               = 6
+| Year                = 1975
+| ReleaseDate         = 03-18-1975
+
+| Editor-in-Chief     = Marv Wolfman
+| Image1_Artist1       = Gil Kane
+| Image1_Artist2       = Joe Sinnott
+| Image1_Artist3       = John Romita
+| Image1_Artist14       = Morrie Kuramoto
+
+| Quotation           = 
+| Speaker             = 
+
+| ReprintOf1          = Amazing Adventures Vol 2 12
+| ReprintOfStory1          = 1
+
+
+| Notes               = 
+* Cover art: John Romita drew the heads of Captain America, the Vision, and Thor.
+* This story is a reprint of [[Amazing Adventures Vol 2 12|Amazing Adventures #12]] in which the Beast battles against Iron Man. Pages 2, 3 and 21 of the original story are omitted.  Some dialogue is also altered.
+| Trivia              = 
+| Recommended         = 
+| Links               = 
+}}"

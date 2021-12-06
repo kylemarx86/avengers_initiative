@@ -1,0 +1,89 @@
+content info: {{Marvel Database:Comic Template
+| Image1              = Avengers Vol 1 20.jpg
+| Month               = 9
+| Year                = 1965
+| ReleaseDate         = 07-08-1965
+
+| Editor-in-Chief     = Stan Lee
+| Image1_Artist1       = Jack Kirby
+| Image1_Artist2       = Wally Wood
+
+| Quotation           = [[Avengers (Earth-616)|They]]'re far more dangerous than I thought! Individually, each one is an enemy to be respected -- but, as a team, they're practically unbeatable!
+| Speaker             = [[Jacques Duquesne (Earth-616)|Swordsman]]
+
+| StoryTitle1         = Vengeance Is Ours!
+| Writer1_1           = Stan Lee
+| Penciler1_1         = Don Heck
+| Inker1_1            = Wally Wood
+| Colorist1_1         = Stan Goldberg
+| Letterer1_1         = Artie Simek
+| Editor1_1           = Stan Lee
+
+| Appearing1          = 
+'''Featured Characters:'''
+* {{a|[[Avengers (Earth-616)|Avengers]]}}
+** {{apn|[[Steven Rogers (Earth-616)|Captain America (Steve Rogers)]]}}
+** {{apn|[[Jacques Duquesne (Earth-616)|Swordsman]]||Avengers #29}} {{g|Joins and leaves team}}
+** {{apn|[[Clinton Barton (Earth-616)|Hawkeye]]}}
+** {{apn|[[Wanda Maximoff (Earth-616)|Scarlet Witch (Wanda)]]}}
+** {{apn|[[Pietro Maximoff (Earth-616)|Quicksilver (Pietro)]]}}
+<!--'''Supporting Characters:'''
+* <br/>-->
+'''Antagonists:'''
+* {{apn|[[Mandarin (Earth-616)|Mandarin]]|Marvel: Heroes & Legends Vol 1 1|Tales of Suspense #76}}
+'''Other Characters:'''
+* {{Mentioned|[[Zheng Zu (Earth-616)|Fu Manchu]]}}
+* {{Illusion|[[Anthony Stark (Earth-616)|Iron Man (Tony Stark)]]}}
+* {{Mentioned|[[Boris Bullski (Earth-616)|Titanium Man (Boris Bullski)]]}}
+* {{Mentioned|[[Robert Locksley (Earth-616)|Robin Hood]]}}
+* {{Mentioned|[[Victor von Doom (Earth-616)|Dr. Doom (Victor von Doom)]]}}
+'''Races and Species:'''
+* {{a|[[Homo sapiens|Humans]]}}
+'''Locations:'''
+* {{a|[[Earth]]}}
+** {{a|[[North America]]}}
+*** {{a|[[United States of America|United States]]}}
+**** {{a|[[New York (State)|New York]]}}
+***** {{a|[[New York City]]}}
+****** {{a|[[Manhattan]]}}
+******* [[Manhattan#Midtown Manhattan|Midtown]] 
+******** {{a|[[Fifth Avenue]]}}
+********* {{a|[[Avengers Mansion]]}}
+** {{a|[[Asia]]}}
+*** {{a|[[China]]}}
+**** {{a|[[Mandarin's Castle]]}}
+** {{Mentioned|[[Europe]]}}
+'''Items:'''
+* {{a|[[Captain America's Shield]]}}
+* {{a|[[Swordsman's Sword]]}}
+* {{a|[[Hawkeye's Bow]]}} and {{a|[[Trick Arrows]]}}
+* {{a|[[Mandarin's Rings]]}}
+* {{Illusion|[[Iron Man Armor Model 3]]}}
+<!--'''Vehicles:'''
+* <br/> -->
+'''Events:'''
+* {{Mentioned|[[World War II]]}}
+
+| Synopsis1           = This story is continued from last issue.
+
+After jumping from the scaffolding last issue, the Avengers have very little time to rescue Captain America. But with quick thinking, they manage it. The Swordsman is outraged and attacks them. During the battle, he mysteriously vanishes.
+
+When he awakens, the Swordsman is in the lair of the Mandarin, who allies himself with the Swordsman and gives him a more powerful sword. He then creates an image of Iron Man which he sends to the Avengers, vouching for the Swordsman's membership. Deceived by the image, the Avengers accept him onto the team.
+
+Once in Avengers Mansion, he plants bombs to destroy them. Later, however, he has a change of heart and tries to remove the bombs but is caught by Captain America, who believes he is attaching them. After a brief battle the Swordsman escapes again. The Swordsman regrets having botched his chance to join such a team of noble heroes.
+
+| Solicit           = ''Fans everywhere are talking about the unexpected drama, the powerful appeal of this newest Marvel fighting groups!  You too will gape in wonder at what befalls the Swordsman!''
+
+| Notes               = * This story continues where {{cl|Avengers Vol 1 #19}} left off. All the [[Avengers (Earth-616)|Avengers]] and the [[Jacques Duquesne (Earth-616)|Swordsman]] were last seen in that issue.
+* While there is a [[Steven Rogers (Earth-616)|Captain America]] story in {{cl|Tales of Suspense Vol 1 #69}}, it is a flashback tale from [[World War II]].
+* The [[Mandarin (Earth-616)|Mandarin]] was last seen in {{cl|Tales of Suspense Vol 1 #62}} where he battled Iron Man.
+* Iron Man's battle against the [[Boris Bullski (Earth-616)|Titanium Man)]] (which Cap mentioned) occurred in {{cl|Tales of Suspense Vol 1 #70}}.
+* During the time that the Swordsman is with the Mandarin, [[Clinton Barton (Earth-616)|Hawkeye]], [[Pietro Maximoff (Earth-616)|Quicksilver]] and [[Wanda Maximoff (Earth-616)|Scarlet Witch]] all appear briefly in {{cl|Journey into Mystery Vol 1 #120}} where [[Thor Odinson (Earth-616)|Thor]] meets them and learns of the change in the Avengers' membership.
+* The Avengers are all (except for Scarlet Witch) seen next in {{cl|Fantastic Four Annual Vol 1 #3}}, where they attend the wedding of [[Reed Richards (Earth-616)|Reed Richards]] and [[Susan Storm (Earth-616)|Sue Storm]]. They and a number of New York's other super beings fight off an army of villains manipulated by [[Victor von Doom (Earth-616)|Dr. Doom]] into crashing the wedding.
+* The Mandarin also next appears in {{cl|Fantastic Four Annual Vol 1 3}}.  He is one of the many villains manipulated by Dr. Doom into crashing the Richards' wedding.
+* The Swordsman is next seen in {{cl|Avengers Vol 1 #29}} when he teams up with [[Natalia Romanova (Earth-616)|Black Widow]] and [[Erik Josten (Earth-616)|Power Man]] to battle the Avengers. He briefly joins the Avengers for this issue, but will return to his life of crime. He will rejoin the Avengers in {{cl|Avengers #100}} briefly and then again in {{cl|Avengers #114}} where he will serve with the team until his death {{cl|Giant-Size Avengers Vol 1 2}}
+* References: {{cl|Tales of Suspense Vol 1 70}}
+| Trivia              = 
+| Recommended         = 
+| Links               = 
+}}
