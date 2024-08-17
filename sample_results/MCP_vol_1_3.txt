@@ -1,0 +1,172 @@
+{{Marvel Database:Comic Template
+| Image1              = Marvel Comics Presents Vol 1 3.jpg
+| Image2              = Marvel Comics Presents Vol 1 3 Back.jpg
+| Image2_Text         = Back
+| Month               = September
+| Year                = 1988
+| StoryArc1           = Save the Tiger
+| StoryArc2           = Elements of Terror
+| StoryArc3           = Crossing Lines
+| Editor-in-Chief     = Tom DeFalco
+| Image1_Artist1      = John Romita Jr.
+| Image1_Artist2      = Bob Wiacek
+
+| Quotation           = 
+| Speaker             = 
+
+| StoryTitle1         = Save the Tiger (Part III of X): The Gals
+| Writer1_1           = Chris Claremont
+| Penciler1_1         = John Buscema
+| Inker1_1            = Klaus Janson
+| Colorist1_1         = Glynis Oliver
+| Letterer1_1         = Tom Orzechowski
+| Editor1_1           = Terry Kavanagh
+| Synopsis1           = Wolverine is too shocked that the woman he followed through the streets of Madripoor was Jessán Hoan that he's not prepared when she demonstrates much more fighting skill and viciousness than he'd expect from a financial analyst to get away from him. He can't help but laugh as he picks himself up when Sapphire, a woman from the bar catches up with him. She's tries to seduce Wolverine, but his instincts tell him it would be a bad idea. When she realizes she isn't getting anywhere, she steals a kiss, which leaves Wolverine nearly incapacitated by her powers. He struggles to get away but is ambushed by Razorfist. Sapphire Styx reveals to Wolverine as he's losing consciousness that she's going to turn him over to Roche.
+
+| Appearing1          = 
+'''Featured Characters:'''
+* {{a|[[James Howlett (Earth-616)|Wolverine (Logan)]]}}
+'''Supporting Characters:'''
+* {{a|[[Jessán Hoan (Earth-616)|Jessán Hoan]]}}
+'''Antagonists:'''
+* {{a|[[Sapphire Styx (Earth-616)|Sapphire Styx]]}}
+* {{a|[[Douglas Scott (Earth-616)|Razor-Fist (Douglas Scott)]]}}
+'''Other Characters:'''
+* [[Character Index/P#Philly|Philly]] {{1st}}
+* {{RecapOnly|[[X-Men (Earth-616)|The X-Men]]}}
+** {{RecapOnly|[[Ororo Munroe (Earth-616)|Storm (Ororo Munroe)]]}}
+** {{RecapOnly|[[Piotr Rasputin (Earth-616)|Colossus (Peter Rasputin)]]}}
+* {{RecapOnly|[[Reavers (Earth-616)|The Reavers]]}}
+** {{RecapOnly|[[Bonebreaker (Earth-616)|Bonebreaker]]}}
+** {{RecapOnly|[[Pretty Boy (Earth-616)|Pretty Boy]]}}
+** {{RecapOnly|[[Skullbuster (Earth-616)|Skullbuster]]}}
+* {{RecapOnly|[[Roma (Otherworld)|Roma]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{Recap|[[Mutants (Homo superior)|Mutants]]}}
+* {{Recap|[[Cyborgs]]}}
+* {{RecapOnly|[[Otherworlders]]}}
+'''Locations:'''
+* {{Flashback|[[Earth]]}}
+** {{a|[[Asia]]}}
+*** {{a|[[Southeast Asia]]}} 
+**** {{a|[[Madripoor]]}}
+***** {{a|[[Lowtown (Madripoor)|Lowtown]]}}
+****** {{referenced|[[Princess Bar]]}}
+**** {{RecapOnly|[[Singapore]]}}
+** {{RecapOnly|[[Oceania (Earth)|Oceania]]}}
+*** {{RecapOnly|[[Australia (Continent)|Australian Continent]]}}
+**** {{RecapOnly|[[Australia]]}}
+***** {{RecapOnly|[[Northern Territory (Australia)|Northern Territory]]}}
+****** {{RecapOnly|[[Maynards Plains]]}}
+******* {{RecapOnly|[[Cooterman's Creek|Reaver Base]]}}
+'''Items:'''
+* {{RecapOnly|[[Wolverine's Suit]]}}
+* {{RecapOnly|[[Siege Perilous]]}}
+<!-- '''Vehicles:'''
+* <br/> -->
+
+| StoryTitle2         = Elements of Terror (Part III of XII): Ritual and Belief
+| Writer2_1           = Steve Gerber
+| Penciler2_1         = Tom Sutton
+| Inker2_1            = Tom Sutton
+| Colorist2_1         = Petra Scotese
+| Letterer2_1         = Augustin Mas
+| Editor2_1           = Terry Kavanagh
+| Synopsis2           = Zahner takes the bound Senator Wycombe to the FSSI, where Railsback puts him through a procedure with Nurse Goren; Interestingly, they believe they have replicated Sallis's formula in Wycombe, despite the fact that Wycombe is not a supporter. Meanwhile, in the swamp, the Man-Thing begins to regain his mind and remembers that his name is Ted and that he is close to "something". Senator Miller tells journalist Mickey Ditillio that he doesn't know anything about Project: Glamor and advises him not to publish about it; but Ditillio investigates and looks for links between FSSI; the guerrillas and anti-drug operations; banking operations in Colombia and Switzerland, and Latverian Arms Sales; suspecting that Choate is involved and that he is connected to Sallis's investigation. In Maryland, Colonel Choate (aka Steel) activates "the demon" to solve his problems. In the swamp, the Man-Thing interrupts a coven that was going to sacrifice a puppy, but the witch in charge of it (Marea), not really understanding Man-Thing, manages to convince him to "lead" her.
+
+| Appearing2          = 
+'''Featured Characters:'''
+* {{a|[[Theodore Sallis (Earth-616)|Man-Thing (Ted Sallis)]]}}
+'''Supporting Characters:'''
+* {{a|[[Michael Ditillio (Earth-616)|Mickey Ditillio]]}}
+'''Antagonists:'''
+* {{a|[[Project Glamor (Earth-616)|Project Glamor]]}}
+** {{a|[[Jody Choate (Earth-616)|Colonel Jody Choate]]}}
+** {{a|[[Lloyd Zahner (Earth-616)|Zahner]]}}
+** Senator Miller
+** {{a|[[Laurence Railsback (Earth-616)|Laurence Railsback]]}}
+** Nurse Goren
+'''Other Characters:'''
+* {{a|[[Wilbur Wycombe (Earth-616)|Senator Wycombe]]}}
+* {{a|[[Demon (Marea) (Earth-616)|Demon (Marea)]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+'''Locations:
+* {{a|[[Washington, D.C.]]}}
+* {{a|[[Man-Thing's Swamp]]}}, {{a|[[Everglades]]}}, {{a|[[Florida (State)|Florida]]}}
+* {{mentioned|[[Latveria]]}} 
+* {{mentioned|[[Switzerland]]}}
+* {{mentioned|[[Colombia]]}}
+* {{mentioned|[[Freedom Science Studies Institute]]}}. {{a|[[California (State)|California]]}}
+* {{a|[[Maryland (State)|Maryland]]}}
+* <br/>
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/> 
+
+| StoryTitle3         = Crossing Lines (Part III of VIII): Fish
+| Writer3_1           = Doug Moench
+| Penciler3_1         = Tom Grindberg
+| Inker3_1            = Dave Cockrum
+| Colorist3_1         = Petra Scotese
+| Letterer3_1         = Augustin Mas
+| Editor3_1           = Terry Kavanagh
+| Synopsis3           = 
+
+| Appearing3          = 
+'''Featured Characters:'''
+* {{a|[[Zheng Shang-Chi (Earth-616)|Shang-Chi]]}}
+'''Supporting Characters:'''
+* {{a|[[Jack Tarr (Earth-616)|Black Jack Tarr]]}}
+* {{a|[[Clive Reston (Earth-616)|Clive Reston]]}}
+<!-- '''Antagonists:'''
+* <br/> -->
+'''Other Characters:'''
+* {{Mentioned|[[Leiko Wu (Earth-616)|Leiko Wu]]}}
+* {{Mentioned|[[Denis Nayland Smith (Earth-616)|Sir Denis Nayland Smith]]}}
+* {{Mentioned|[[James Larner (Earth-616)|James Larner]]}}
+<!-- '''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}} -->
+'''Locations:'''
+* {{a|[[Hong Kong]]}}
+<!--
+'''Items:'''
+* <br/>
+'''Vehicles:'''
+* <br/> -->
+
+| StoryTitle4         = The Measure of a Man!
+| Writer4_1           = Al Milgrom
+| Penciler4_1         = Al Milgrom
+| Inker4_1            = Al Milgrom
+| Colorist4_1         = Gregory Wright
+| Letterer4_1         = Jim Novak
+| Editor4_1           = Terry Kavanagh
+| Synopsis4           = 
+
+| Appearing4          = 
+'''Featured Characters:'''
+* {{a|[[Benjamin Grimm (Earth-616)|Thing (Ben Grimm)]]}} 
+'''Antagonists:'''
+* {{a|[[Kkallakki|Fear Eater]]}}
+'''Other Characters:'''
+* {{Vision|[[Norrin Radd (Earth-616)|Silver Surfer (Norrin Radd)]]}}
+'''Races and Species:'''
+* {{a|[[Humans (Homo sapiens)|Humans]]}}
+* {{Vision|[[Zenn-Lavians]]}}
+* {{a|[[Kkallakki]]}}
+'''Items:'''
+* {{Vision|[[Power Cosmic]]}}
+'''Vehicles:'''
+* {{Vision|[[Silver Surfer's Surfboard]]}}
+
+| Notes               = 
+* Wraparound cover.
+* The flashback in the Wolverine story takes place entirely during {{cl|Uncanny X-Men #229}}.
+* The "Save the Tiger" vignette from this issue is reprinted in the ''[[Wolverine: Save the Tiger! Vol 1 1|Wolverine: Save the Tiger!]]'' and ''Marvel Comics Presents: Wolverine'' trade paperbacks.
+| Trivia              = 
+| Recommended         = 
+| Links               = 
+| ReleaseDate             = May 31, 1988}}
