@@ -127,11 +127,7 @@ function searchWikiForComic(comicTitle){
     };
     comicTitle = comicTitle.replace('#', '');
     var queryString = constructQueryString(comicTitle, extraDataOptions);
-    // doesn't require a closure
-    // (function(){
-        // comicTitle = comicTitle;
-    // })()
-
+    
     $.ajax({
         type: "GET",
         url: `https://marvel.fandom.com/api.php?${queryString}`,
@@ -191,19 +187,10 @@ function searchWikiForComic(comicTitle){
  * @returns 
  */
 function extractCharactersBlock(content){
-    // var pattern = /Appearing1 += \n(((.+)\n)+)'''Other Characters:'''/g;
     var pattern = /Appearing1 += \n(((.+)\n)+'''Other Characters:''')/g;
 
     // basic pattern for specific character set
-    // var pattern = /(?<='''Featured Characters:''' ?\n)((.+)\n)+(?=(\<!---?)?'''Supporting Characters:''')|(?<='''Featured Characters:'''\n)((.+)\}?\n)+(?=(\<!---?)?'''Antagonists:''')/g;
     var charactersBlock = pattern.exec(content)[1];
-
-    // if(charactersBlock == null){
-    //     pattern = /(?<='''Featured Characters:'''\n)((.+)\n)+(?=(\<!---?)?'''Antagonists:''')/g;
-    //     charactersBlock = pattern.exec(content)[0];
-    // }
-
-    // console.log('char block:', charactersBlock);
 
     return charactersBlock;
 }
@@ -222,14 +209,11 @@ function parseCharactersBlocks(charactersBlock, comicObj){
         var matchedPattern = charactersBlock.match(pattern)[1];
 
         comicObj.featuredCharacters = parseCharactersInBlock(matchedPattern);
-        // var featured = parseCharactersInBlock(matchedPattern);
     }catch{
         try{
             var pattern = /'''Featured Characters:'''\n(((.+)\n)+)(?='''Antagonists)/;
             var matchedPattern = charactersBlock.match(pattern)[1];
 
-            // console.log('matchedPattern', matchedPattern)
-    
             comicObj.featuredCharacters = parseCharactersInBlock(matchedPattern);
         }catch{
             displayError(`Search for featured characters in ${comicTitle} yielded an error.`); 
@@ -263,27 +247,12 @@ function parseCharactersBlocks(charactersBlock, comicObj){
 
 // takes a block for specific character type and parses out the characters
 function parseCharactersInBlock(characterBlock){
-    // var pattern = /\* \{\{(.+)?\|\[\[([^\|]+\))\|(?!=.\|)/g;
-
-    // first test
-    // var pattern = /(?<! \/ )\{\{.+\|\[\[([^\/}|]+)\|.+\]\]\|([^\/}]+)\}\}/g
-    // var matchedPattern = charactersBlock.match(pattern);
-    
-    // // var matchedPattern = pattern.exec(charactersBlock);
-    // // console.log('matched pattern', matchedPattern);
-
-    // if(matchedPattern == null){
-    //     pattern = /(?<! \/ )\{\{.+\|\[\[([^\/}|]+)\|.+\]\](\|([^\/}]+))?\}\}/g;
-    //     matchedPattern = charactersBlock.match(pattern);
-    // }
-
-    // second test
     pattern = /(?<! \/ )\{\{.+\|\[\[([^\/}|]+)\|.+\]\](\|([^\/}]+))?\}\}/g;
     matchedPattern = characterBlock.match(pattern);
 
 
     var charArray = [];
-    // pattern = /\[\[(.*)\|/g;
+
     pattern = /\[\[([^|]*)\|/g
     matchedPattern.forEach(element => {
         var result;
