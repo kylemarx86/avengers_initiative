@@ -60,7 +60,6 @@ var sampleComics = {
  */
 $(document).ready(function(){
     submitForm();
-    // characterParserTester(sampleComics["2"]);
 });
 
 
@@ -70,15 +69,15 @@ function submitForm(){
     // var batchSize = 10;
 
     var batchNumber = 1;
-    var batchSize = 10;
+    var batchSize = 5;
 
     var startIssue = (batchNumber - 1) * batchSize + 1;
     var endIssue = batchNumber * batchSize;
     
     // for individual issues in case they were missed
-    var issue = 8;
-    var startIssue = issue;
-    var endIssue = issue;
+    // var issue = 8;
+    // var startIssue = issue;
+    // var endIssue = issue;
     
     runWikiQueryBatch(startIssue, endIssue);
 }
@@ -91,30 +90,6 @@ function runWikiQueryBatch(startIssue, endIssue){
         searchWikiForComic(comicTitle);
     }
 }
-
-function characterParserTester(sampleComic){
-    var charactersBlock = sampleComic.sampleText;
-
-    // //original comic object
-    // var comicObj = {
-    //     title: sampleComic.title,
-    //     characters: []
-    // };
-    
-    //original comic object
-    var comicObj = {
-        title: sampleComic.title,
-        featuredCharacters: [],
-        supportingCharacters: [],
-        antagonists: []
-    };
-
-    comicObj.characters = parseFeaturedCharacters(charactersBlock);
-    console.log('comicObj', comicObj)
-    addComicInfoToDOM(comicObj);
-
-}
-
 
 // ***** WIKI QUERY METHODS *****
 
@@ -140,8 +115,8 @@ function searchWikiForComic(comicTitle){
                 var comicObj = {
                     title: comicTitle,
                     featuredCharacters: [],
-                    supportingCharacters: [],
-                    antagonists: []
+                    // supportingCharacters: [],
+                    // antagonists: []
                 };
                 // page information was received
                 // FOR MARVEL API
@@ -150,6 +125,7 @@ function searchWikiForComic(comicTitle){
                 // console.log('content info:', content);
 
                 // extract featured characters list
+                // *** NEED TO AMEND THIS TO CAPTURE FEATURED CHARACTERS FROM ALL STORIES WITHIN COMIC, THEN ADD TO DOM
                 try{
                     (function(){
                         var charactersBlock = extractCharactersBlock(content);
@@ -157,14 +133,15 @@ function searchWikiForComic(comicTitle){
                         for(var i = 0; i < charactersBlock.length; i++){
                             parseCharactersBlocks(charactersBlock[i], comicObj);
 
-                            // comicObj.characters = parseFeaturedCharacters(charactersBlock);
-                            // console.log('comicObj', comicObj)
+                            console.log('comicObj', comicObj)
     
                             // add comic to batch
                             
                             // once batch is complete, add 
-                            addComicInfoToDOM(comicObj);
+                            // addComicInfoToDOM(comicObj);
                         }
+
+                        addComicInfoToDOM(comicObj);
                     })();
                 }catch{
                     displayError(`Search for ${comicTitle} yielded an error.`);
@@ -223,49 +200,25 @@ function parseCharactersBlocks(charactersBlock, comicObj){
         var pattern = /'''Featured Characters:'''\n(((.+)\n)+)(?='''Supporting)/;
         var matchedPattern = charactersBlock.match(pattern)[1];
 
-        comicObj.featuredCharacters = parseCharactersInBlock(matchedPattern);
+        comicObj.featuredCharacters.push(parseCharactersInBlock(matchedPattern));
     }catch{
         try{
             var pattern = /'''Featured Characters:'''\n(((.+)\n)+)(?='''Antagonists)/;
             var matchedPattern = charactersBlock.match(pattern)[1];
 
-            comicObj.featuredCharacters = parseCharactersInBlock(matchedPattern);
+            comicObj.featuredCharacters.push(parseCharactersInBlock(matchedPattern));
         }catch{
             displayError(`Search for featured characters in ${comicTitle} yielded an error.`); 
         }
     }
-    // // NOT DESIRED FOR MARVEL COMICS PRESENTS
-    // // find supporting characters
-    // // if there are supporting characters, search from Supporting Characters to Antagonists; else there are no supporting characters and leave this empty
-    // try{
-    //     var pattern = /'''Supporting Characters:'''\n(((.+)\n)+)(?='''Antagonists)/;
-    //     var matchedPattern = charactersBlock.match(pattern)[1];
-
-    //     comicObj.supportingCharacters = parseCharactersInBlock(matchedPattern);
-    // }catch{
-    //     displayError(`Search for supporting characters in ${comicTitle} yielded an error.`); 
-    // }
-    // // NOT DESIRED FOR MARVEL COMICS PRESENTS
-    // // find antagonists
-    // // search from 
-    // try{
-    //     var pattern = /'''Antagonists:'''\n(((.+)\n)+)(?=''')/;
-    //     var matchedPattern = charactersBlock.match(pattern)[1];
-
-    //     comicObj.antagonists = parseCharactersInBlock(matchedPattern);
-    // }catch{
-    //     displayError(`Search for ${comicTitle} yielded an error.`); 
-    // }
 
     console.log('comicObj', comicObj);
-
 }
 
 // takes a block for specific character type and parses out the characters
 function parseCharactersInBlock(characterBlock){
     pattern = /(?<! \/ )\{\{.+\|\[\[([^\/}|]+)\|.+\]\](\|([^\/}]+))?\}\}/g;
     matchedPattern = characterBlock.match(pattern);
-
 
     var charArray = [];
 
@@ -411,24 +364,15 @@ function catchReprintError(content){
 
 //comicInfo is a comicObj with title and list of characters broken up into featured characters, supporting characters, and antagonists
 function addComicInfoToDOM(comicInfo){
-    var $comic = $('<div>').addClass('comic');
-    var $title = $('<div>').addClass('title');
-    var $featuredCharSection = $('<div>').addClass('section featured').html('Featured Characters<br>');
-    // var $supportingCharSection = $('<div>').addClass('section supporting').html('Supporting Characters<br>');
-    // var $antagonistSection = $('<div>').addClass('section antagonist').html('Antagonists<br>');
+    var $comic = $('<tr>').addClass('comic');
+    var $title = $('<td>').addClass('title').append(comicInfo.title);
 
-    $title.append(comicInfo.title);
+    $comic.append($title);
+    
     comicInfo.featuredCharacters.forEach(element => {
-        $featuredCharSection.append(element, "<br>");
+        var $featuredChar = $('<td>').addClass('character').append(element);
+        $comic.append($featuredChar);
     });
-    // comicInfo.supportingCharacters.forEach(element => {
-    //     $supportingCharSection.append(element, "<br>");
-    // });
-    // comicInfo.antagonists.forEach(element => {
-    //     $antagonistSection.append(element, "<br>");
-    // });
-
-    // $comic.append($title, $featuredCharSection, $supportingCharSection, $antagonistSection);
-    $comic.append($title, $featuredCharSection);
-    $('body').append($comic);
+    
+    $('table').append($comic);
 }
